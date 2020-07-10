@@ -36,7 +36,6 @@
 #include <string.h>
 #include <sys/epoll.h>
 #include "color.h"
-#include "store_score.h"
 #include "common.h"
 #include "datatype.h"
 #include "udp_server.h"

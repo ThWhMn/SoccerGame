@@ -104,6 +104,7 @@ struct FootBallMsg {
 
 struct ChatMsg {
     int  type;
+    char name[20];
     char msg[1024];
 };
 
